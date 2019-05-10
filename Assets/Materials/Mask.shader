@@ -1,4 +1,4 @@
-﻿Shader "Custom/Mask" {
+﻿Shader "Custom/Mask" 
  
    SubShader {
    //In the Tags section we define different properties for the subshader.
